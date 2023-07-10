@@ -1,4 +1,3 @@
-import React from 'react'
 import * as S from './styles'
 import unha from '../../../public/images/unha-escamada-1.png'
 

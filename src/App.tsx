@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { GlobalStyle } from './themes/global'
 import { Home } from './pages/Home'
 

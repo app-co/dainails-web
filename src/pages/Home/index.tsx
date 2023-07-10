@@ -1,4 +1,3 @@
-import React from 'react'
 import * as S from './styles'
 import { Menu } from '@/components/Menu'
 import { Care } from '@/components/Care'
